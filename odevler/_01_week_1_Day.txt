@@ -1,0 +1,5 @@
+
+• Interpreter nedir?
+• Compiler nedir?
+• Big Data nedir?
+• LLM ,RAG, Agent ve MLOps nedir?
